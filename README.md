@@ -18,6 +18,7 @@
 <a href="https://linkedin.com/in/janeshnandaks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janeshnandaks" height="30" width="40" /></a>
 <a href="https://instagram.com/janesh2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="janesh2005" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/janesh_nanda7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="janesh_nanda7" height="30" width="40" /></a>
+<a href="https://discord.gg/janesh_strx23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="janesh_strx23" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,5 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janeshnanda2005&show_icons=true&locale=en&layout=compact" alt="janeshnanda2005" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janeshnanda2005&show_icons=true&locale=en" alt="janeshnanda2005" /></p>
 
 
