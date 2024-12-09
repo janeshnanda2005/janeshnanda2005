@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/janesh-nanda-k-s-ab73aa282/details/projects/](https://www.linkedin.com/in/janesh-nanda-k-s-ab73aa282/details/projects/)
 
-- 💬 Ask me about **Python,Git,Html,css,Machine learning**
+- 💬 Ask me about **Python,Git,Machine learning**
 
 - 📫 How to reach me **janeshnanda@gmail.com**
 
