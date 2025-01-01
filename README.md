@@ -1,4 +1,4 @@
-![](happy.gif)
+<h1 align='center'>![](happy.gif)</h1>
 
 <h1 align="center">Hi 👋, I'm Janeshnanda K S</h1>
 <h3 align="center">A passionate Computer Aspirant from India</h3>
