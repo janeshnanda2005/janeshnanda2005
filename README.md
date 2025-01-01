@@ -1,5 +1,5 @@
-![](https://github.com/Your_Repository_Name/github.gif)
-  
+![](https://github.com/janeshnanda2005/github.gif)
+
 <h1 align="center">Hi 👋, I'm Janeshnanda K S</h1>
 <h3 align="center">A passionate Computer Aspirant from India</h3>
 
