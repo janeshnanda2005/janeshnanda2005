@@ -1,11 +1,11 @@
+![](https://github.com/Your_Repository_Name/github.gif)
+  
 <h1 align="center">Hi 👋, I'm Janeshnanda K S</h1>
 <h3 align="center">A passionate Computer Aspirant from India</h3>
 
 - 🔭 I’m currently working on [RPS Drone Project](https://www.linkedin.com/in/janesh-nanda-k-s-ab73aa282/details/projects/)
 
 - 🌱 I’m currently learning **Machine Learning ,Computer Vision**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/janesh-nanda-k-s-ab73aa282/details/projects/](https://www.linkedin.com/in/janesh-nanda-k-s-ab73aa282/details/projects/)
 
 - 💬 Ask me about **Python,Git,Machine learning**
 
