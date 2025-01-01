@@ -1,6 +1,7 @@
 <p align="center">
-  ![](happy.gif)
+  <img src="happy.gif" alt="animated" />
 </p>
+
 <h1 align="center">Hi 👋, I'm Janeshnanda K S</h1>
 <h3 align="center">A passionate Computer Aspirant from India</h3>
 
