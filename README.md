@@ -1,9 +1,9 @@
+<h1 align="center">Hi 👋, I'm Janeshnanda K S</h1>
+<h3 align="center">A passionate Computer Aspirant from India  and have a liking for Machine Learning</h3>
+
 <p align="center">
   <img src="happy.gif" alt="animated" />
 </p>
-
-<h1 align="center">Hi 👋, I'm Janeshnanda K S</h1>
-<h3 align="center">A passionate Computer Aspirant from India  and have a liking for Machine Learning</h3>
 
 - 🔭 I’m currently working on [RPS Drone Project](https://www.linkedin.com/in/janesh-nanda-k-s-ab73aa282/details/projects/)
 
