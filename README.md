@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Janeshnanda K S</h1>
-<h3 align="center">A passionate Computer Aspirant from India  and have a liking for Machine Learning</h3>
+<h3 align="center">A Computer Aspirant from India have a Machine Learning</h3>
 
 <p align="center">
   <img src="happy.gif" alt="animated" />
