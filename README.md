@@ -1,9 +1,9 @@
 <p align="center">
   <img src="happy.gif" alt="animated" />
 </p>
-
+#👋 I'm Janeshnanda K S a Computer Science Engineer
 # 💫 About Me:
-- 👋 I'm Janeshnanda K S a Computer Science Engineer<br><br>
+<br><br>
 - 🔭 I’m currently working on **Drone Project,Book_kisok**<br><br>
 - 🌱 I’m currently learning **Machine Learning ,Computer Vision**<br><br>
 - 💬 Ask me about **Python,Git,Machine learning**<br><br>
