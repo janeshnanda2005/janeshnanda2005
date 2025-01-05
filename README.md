@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="happy.gif" alt="animated" />
+</p>
+
 # 💫 About Me:
 - 👋 I'm Janeshnanda K S a Computer Science Engineer<br><br>
 - 🔭 I’m currently working on **Drone Project,Book_kisok**<br><br>
