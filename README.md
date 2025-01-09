@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **janeshnanda@gmail.com**
 
-- ⚡ Fun fact **CoffeeHead,**
+- ⚡ Fun fact **CoffeeHead**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
