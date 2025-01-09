@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Aspirant from India having a liking Machine Learning</h3>
 
 <p align="center">
-  <img src="happy.gif" alt="animated" />
+  <img src="github.gif" alt="animated" />
 </p>
 
 - 🔭 I’m currently working on [RPS Drone Project](https://www.linkedin.com/in/janesh-nanda-k-s-ab73aa282/details/projects/)
