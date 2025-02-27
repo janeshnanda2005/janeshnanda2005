@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Janeshnanda K S</h1>
-<h3 align="center">A Computer Aspirant from India have a liking Machine Learning</h3>
+<h3 align="center">A Computer Science Aspirant from India ,a Dreamer to do Impossible</h3>
 
 <p align="center">
   <img src="github.gif" alt="animated" />
@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [RPS Drone Project](https://www.linkedin.com/in/janesh-nanda-k-s-ab73aa282/details/projects/)
 
-- 🌱 I’m currently learning **Machine Learning ,Computer Vision**
+- 🌱 I’m currently learning **Machine Learning,Deep Learning ,Computer Vision**
 
-- 💬 Ask me about **Python,Git,Machine learning**
+- 💬 Ask me about **Python, Git ,Machine learning**
 
 - 📫 How to reach me **janeshnanda@gmail.com**
 
-- ⚡ Fun fact **CoffeeHead**
+- ⚡ Fun fact **Demystifier**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
