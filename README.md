@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Janeshnanda K S</h1>
-<h3 align="center">A Computer Science Aspirant from India ,a Dreamer to do Impossible</h3>
+<h3 align="center">A Computer Science Aspirant from India a Dreamer to do Impossible</h3>
 
 <p align="center">
   <img src="github.gif" alt="animated" />
